@@ -1,4 +1,4 @@
-void RocketLauncher(int ignition)
+static void RocketLauncher(int ignition)
 {
   if (ignition <= 0)
   {
